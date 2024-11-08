@@ -24,5 +24,5 @@ I'm a graduate student in Applied Data Science at UChicago, with a background in
 - Data Analyst and Data Scientist roles
 
 ### 📫 How to Reach Me
-- **LinkedIn**: [Your LinkedIn Profile Link]
+- **LinkedIn**: [[Your LinkedIn Profile Link]](https://www.linkedin.com/in/ziyi-hu-472135269/)
 - **Email**: zoeyhuzy@gmail.com
